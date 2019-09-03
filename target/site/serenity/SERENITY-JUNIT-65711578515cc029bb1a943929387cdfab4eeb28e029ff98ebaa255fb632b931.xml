@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Realizar compras de libros" skipped="0" tests="1" time="14.51" timestamp="2019-03-01 12:41:35"><testcase name="Realizar la compra de libros para visualizar el valor total"><failure message="&#10;Expected: &lt;prueba_automatizacion.questions.LaRespuesta@5c5d6175&gt;&#10;     but: was &quot;Rs.900&quot;" type="java.lang.AssertionError">
+Expected: &lt;prueba_automatizacion.questions.LaRespuesta@5c5d6175&gt;
+     but: was "Rs.900"</failure><system-err>
+Expected: &lt;prueba_automatizacion.questions.LaRespuesta@5c5d6175&gt;
+     but: was "Rs.900"&#13;
+prueba_automatizacion.stepdefinitions.LoginPaginaStepDefintions.ellaDeberiaVerElValorTotalAPagar(LoginPaginaStepDefintions.java:79)&#13;
+✽.ella deberia ver el valor total a pagar(src/test/resources/features/LoginPagina.feature:18)&#13;
+</system-err></testcase></testsuite>

@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Ingresar a Google y digitar la prueba Pruebaz","Realizar la compra de libros para para visualizar el coste total de cada libro","SUCCESS","2019-08-21T22:15:41.706-05:00[America/Bogota]","0.0","9.87"
+"Ingresar a Google y digitar la prueba Pruebaz","Ingresar a la pagina de Google y digitar la palabra Pruebaz, verificar que aparezca la palabra correcta ""Pruebas""","SUCCESS","2019-09-02T20:42:54.359-05:00[America/Bogota]","0.0","12.24"
+"Ingresar a Google y digitar la prueba Pruebaz","Ingresar a Google y digitar la palabra Pruebaz, verificar que aparezca la palabra  ""Pruebas"" y validar que la lista de resultados sea mayor a 6","SUCCESS","2019-09-02T21:26:04.759-05:00[America/Bogota]","0.0","12.64"
+"Google Traslate","Traslate from Source Language to Target Language","SUCCESS","2019-02-04T08:20:11.836-05:00[America/Bogota]","0.0","28.48"
